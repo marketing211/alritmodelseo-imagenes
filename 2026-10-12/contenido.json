@@ -1,0 +1,131 @@
+{
+ "p1": [
+  {
+   "t": "cover",
+   "k": "Bienvenida",
+   "h": "Tu clínica es buena.<br><em>¿Te encuentra Google?</em>",
+   "s": "Aquí hablamos de SEO local para clínicas de fisioterapia, dentales y estética."
+  },
+  {
+   "t": "text",
+   "h": "Cuando alguien busca «fisio cerca de mí», no elige a la mejor clínica.",
+   "b": "Elige a la que aparece primero, con buenas reseñas y fotos reales. Que esa sea la tuya no es suerte: se trabaja."
+  },
+  {
+   "t": "list",
+   "h": "Lo que vas a ver aquí cada semana",
+   "i": [
+    "Tu ficha de Google, paso a paso",
+    "Errores que te quitan llamadas",
+    "Casos reales de clínicas",
+    "Trucos que aplicas en 10 minutos"
+   ]
+  },
+  {
+   "t": "cta",
+   "h": "¿Cómo está la ficha de tu clínica?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo y te la reviso gratis."
+  }
+ ],
+ "p2": [
+  {
+   "t": "cover",
+   "k": "Ficha de Google",
+   "h": "5 errores en la ficha de tu clínica que te <em>quitan pacientes</em>",
+   "s": "Desliza y revisa la tuya mientras lees →"
+  },
+  {
+   "t": "num",
+   "n": "01",
+   "h": "Categoría principal genérica",
+   "b": "«Clínica» o «Centro de salud» no dicen nada. Si eres fisioterapeuta, tu categoría principal es «Fisioterapeuta». Las secundarias, para el resto de servicios."
+  },
+  {
+   "t": "num",
+   "n": "02",
+   "h": "Horario que no es real",
+   "b": "Festivos, agosto, cambios de turno… Si alguien va y está cerrado, lo cuenta en una reseña. Revisa el horario cada vez que cambie algo."
+  },
+  {
+   "t": "num",
+   "n": "03",
+   "h": "Reseñas sin responder",
+   "b": "Responder es gratis y lo lee todo el que te está comparando con otra clínica. Sobre todo las negativas: con calma y sin datos de salud del paciente."
+  },
+  {
+   "t": "num",
+   "n": "04",
+   "h": "Ninguna foto real",
+   "b": "Ni la fachada, ni la sala, ni el equipo. Quien no te conoce quiere ver dónde va a entrar. Fotos de stock no cuentan."
+  },
+  {
+   "t": "num",
+   "n": "05",
+   "h": "Ficha olvidada",
+   "b": "Sin publicaciones ni novedades en meses. Una ficha sin movimiento da sensación de abandono a quien la mira."
+  },
+  {
+   "t": "cta",
+   "h": "¿Cuántos de estos tiene la tuya?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo y te digo cuáles corregir primero. Gratis."
+  }
+ ],
+ "p3": [
+  {
+   "t": "cover",
+   "k": "Caso real",
+   "h": "De clínica de barrio a la <em>más grande</em> de su ciudad",
+   "s": "Una clínica de fisioterapia con la que trabajamos su ficha de Google desde 2023."
+  },
+  {
+   "t": "text",
+   "h": "El punto de partida",
+   "b": "Buen equipo, buenos tratamientos y pacientes contentos. Pero fuera del barrio, casi nadie la encontraba en Google."
+  },
+  {
+   "t": "list",
+   "h": "Lo que trabajamos",
+   "i": [
+    "Ficha de Google cuidada cada mes",
+    "Todas las reseñas respondidas",
+    "Una página por servicio en la web",
+    "Contenidos que responden lo que buscan los pacientes"
+   ]
+  },
+  {
+   "t": "stats",
+   "h": "Hoy",
+   "i": [
+    [
+     "+15",
+     "salas"
+    ],
+    [
+     "+500",
+     "reseñas en Google"
+    ],
+    [
+     "5",
+     "especialidades"
+    ]
+   ]
+  },
+  {
+   "t": "text",
+   "h": "Lo importante",
+   "b": "El SEO no hizo el trabajo de los fisios. Hizo que se viera. Si tu clínica trabaja bien, merece que la encuentren."
+  },
+  {
+   "t": "cta",
+   "h": "¿Quieres saber dónde está la tuya?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo y te la reviso gratis."
+  }
+ ],
+ "h1": [
+  {
+   "t": "story",
+   "h": "¿En qué posición sale tu clínica en <em>Google Maps</em>?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo y te lo digo gratis."
+  }
+ ]
+}
