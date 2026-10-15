@@ -1,0 +1,90 @@
+{
+ "p1": [
+  {
+   "t": "cover",
+   "k": "Reseñas",
+   "h": "Cómo pedir reseñas <em>sin sentirte incómodo</em>",
+   "s": "Un sistema sencillo para tu clínica. Desliza →"
+  },
+  {
+   "t": "num",
+   "n": "01",
+   "h": "Elige bien el momento",
+   "b": "Cuando el paciente te da las gracias o sale contento de la sesión. No con la factura en la mano."
+  },
+  {
+   "t": "num",
+   "n": "02",
+   "h": "Pídelo con naturalidad",
+   "b": "«Nos ayuda mucho que otros nos encuentren. ¿Te importaría dejarnos una reseña en Google?» Así de simple."
+  },
+  {
+   "t": "num",
+   "n": "03",
+   "h": "Pónselo fácil",
+   "b": "Ten a mano el enlace directo a tu ficha o un código QR en recepción. Si tiene que buscarte, no lo hará."
+  },
+  {
+   "t": "num",
+   "n": "04",
+   "h": "Implica a todo el equipo",
+   "b": "Recepción, fisios, higienistas… Cada uno en su momento. Si solo lo pide una persona, se queda en nada."
+  },
+  {
+   "t": "num",
+   "n": "05",
+   "h": "Responde a todas",
+   "b": "Las buenas y las malas. Con calma, con tu nombre y sin datos de salud del paciente."
+  },
+  {
+   "t": "cta",
+   "h": "¿Cómo van las reseñas de tu clínica?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo y reviso tu ficha gratis."
+  }
+ ],
+ "p2": [
+  {
+   "t": "cover",
+   "k": "Web y SEO local",
+   "h": "¿Para qué sirve tu web si ya tienes <em>ficha de Google</em>?",
+   "s": "Explicado sin tecnicismos. Desliza →"
+  },
+  {
+   "t": "text",
+   "h": "La ficha es tu escaparate",
+   "b": "Es lo primero que ve quien busca una clínica cerca. Dirección, horario, fotos y reseñas."
+  },
+  {
+   "t": "text",
+   "h": "La web es la tienda por dentro",
+   "b": "Ahí el paciente entiende qué haces, cómo trabajas y si eres lo que busca. Y Google también lo lee."
+  },
+  {
+   "t": "list",
+   "h": "Lo que Google busca en tu web",
+   "i": [
+    "Una página por cada servicio",
+    "Tu ciudad y tu barrio, escritos",
+    "Mismo nombre, dirección y teléfono que la ficha",
+    "Que cargue rápido en el móvil"
+   ]
+  },
+  {
+   "t": "text",
+   "h": "Juntas suman",
+   "b": "Una ficha cuidada y una web clara se refuerzan. Por separado, cada una se queda a medias."
+  },
+  {
+   "t": "cta",
+   "h": "¿Tu web y tu ficha van a una?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo y te lo reviso gratis."
+  }
+ ],
+ "h1": [
+  {
+   "t": "story",
+   "h": "¿Cuándo respondiste tu <em>última reseña</em>?",
+   "b": "Si no te acuerdas, escríbeme <b>FICHA</b> por mensaje directo y reviso tu ficha gratis."
+  }
+ ]
+}
