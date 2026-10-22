@@ -1,0 +1,89 @@
+{
+ "p1": [
+  {
+   "t": "cover",
+   "k": "Reseñas",
+   "h": "Te han dejado una reseña mala. <em>¿Y ahora qué?</em>",
+   "s": "Cómo responderla sin empeorar las cosas. Desliza →"
+  },
+  {
+   "t": "num",
+   "n": "01",
+   "h": "No respondas en caliente",
+   "b": "Léela, respira y deja pasar unas horas. Una respuesta a la defensiva se queda ahí para siempre."
+  },
+  {
+   "t": "num",
+   "n": "02",
+   "h": "Agradece y ponte en su lugar",
+   "b": "«Gracias por contarnos tu experiencia. Sentimos que no haya sido como esperabas.» Sin excusas de entrada."
+  },
+  {
+   "t": "num",
+   "n": "03",
+   "h": "Cero datos de salud",
+   "b": "Ni tratamientos, ni diagnósticos, ni detalles de la visita. Aunque el paciente los cuente, tú <b>no</b> los confirmas."
+  },
+  {
+   "t": "num",
+   "n": "04",
+   "h": "Lleva la conversación fuera",
+   "b": "Ofrece un teléfono o un correo para hablarlo en privado. Firma con tu nombre: da confianza."
+  },
+  {
+   "t": "text",
+   "h": "Piensa en quien lo lee",
+   "b": "La respuesta no es solo para quien se queja. Es para el próximo paciente que te está comparando con otra clínica."
+  },
+  {
+   "t": "cta",
+   "h": "¿Tienes reseñas sin responder?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo y reviso tu ficha gratis."
+  }
+ ],
+ "p2": [
+  {
+   "t": "cover",
+   "k": "Detrás de las cámaras",
+   "h": "Así reviso la ficha de <em>tu clínica</em>",
+   "s": "Lo que miro cuando me escribes FICHA. Desliza →"
+  },
+  {
+   "t": "text",
+   "h": "Primero, te busco como un paciente",
+   "b": "Desde el móvil, con lo que escribiría alguien de tu zona: «fisio cerca de mí», «dentista en…». Y miro dónde sales."
+  },
+  {
+   "t": "list",
+   "h": "Después, abro tu ficha",
+   "i": [
+    "Categoría principal y secundarias",
+    "Servicios y horario",
+    "Fotos reales del centro",
+    "Reseñas y cómo las respondes"
+   ]
+  },
+  {
+   "t": "text",
+   "h": "Y te miro al lado de tu competencia",
+   "b": "Las clínicas que salen por delante de ti. Qué tienen ellas que a tu ficha le falta."
+  },
+  {
+   "t": "text",
+   "h": "Te lo cuento claro",
+   "b": "Qué corregir primero y qué puede esperar. Sin tecnicismos y sin compromiso."
+  },
+  {
+   "t": "cta",
+   "h": "¿Te reviso la tuya?",
+   "b": "Escríbeme <b>FICHA</b> por mensaje directo. Es gratis."
+  }
+ ],
+ "h1": [
+  {
+   "t": "story",
+   "h": "¿Están <em>todos tus tratamientos</em> en tu ficha de Google?",
+   "b": "Si no lo sabes, escríbeme <b>FICHA</b> por mensaje directo y lo reviso gratis."
+  }
+ ]
+}
